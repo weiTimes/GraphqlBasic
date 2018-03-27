@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "将进酒*君不见",
+      "content": "主人何为言钱少，仅需截取对锦州",
+      "author": 1
+    },
+    {
+      "id": 2,
+      "title": "长恨歌",
+      "content": "主人何为言钱少，仅需截取对锦州",
+      "author": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "李白"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "author": 1,
+      "content": "好事"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "author": 1,
+      "content": "还行吧"
+    }
+  ]
+}

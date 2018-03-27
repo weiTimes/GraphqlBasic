@@ -1,0 +1,16 @@
+## 使用到的库
+* nodemon 监听文件改动并自动重启服务
+* json-server 简易数据存储
+* graphql 接口查询
+
+## How start?
+```
+# 开发
+yarn run dev
+
+# json服务器
+yarn run json-server
+
+# 开发graphql客户端
+localhost:8787/graphql
+```

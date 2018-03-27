@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "静夜思",
+      "content": "床前明月光，疑是地上霜",
+      "author": 1
+    },
+    {
+      "id": 2,
+      "title": "悯农",
+      "content": "锄禾日当午，汗滴禾下土",
+      "author": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "李白"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "author": 1,
+      "content": "好事"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "author": 1,
+      "content": "还行吧"
+    }
+  ]
+}
